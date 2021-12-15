@@ -1,4 +1,4 @@
 export const createLi = ({ text, id }) =>
   `<li>${text}
-  <button data-id = ${id}>Delete</button>
+  <button data-id='${id}' class="closeBtn">Delete</button>
   </li>`;

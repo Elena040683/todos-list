@@ -1,3 +1,16 @@
 {
-  "items": []
+  "items": [
+    {
+      "text": "Learn React Native",
+      "id": 1
+    },
+    {
+      "text": "Learn Node.js",
+      "id": 2
+    },
+    {
+      "text": "Learn HTML + CSS",
+      "id": 3
+    }
+  ]
 }
